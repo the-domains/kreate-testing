@@ -1,4 +1,3 @@
-layout_spectrum: 0.8528084359131753
 typography_spectrum: 0.10466313967481256
 color:
   brandStrength: 0.25504094711504877
@@ -6,9 +5,14 @@ color:
   saturation: 0.7048352661076933
   rhythmicContrast: 0.24396956036798656
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.8528084359131753
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a763584-1983-4988-9286-52ac0bd45572.png
 name: Kreate Testing
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e52f15e3-fdc4-4249-aa15-cac2fc9b872c.png
